@@ -1,7 +1,7 @@
 # SCTNet
 ## Offcial implementation of "SCTNet: Structured and causality-guided spatio-temporal diffusion network for unsupervised traffic accident detection".
 
-![pipeline](./SCTNET_files/model.png)
+![pipeline](./SCTNet_files/model.png)
 ## 1. Dependencies
 ```
 python==3.6.13
@@ -26,7 +26,7 @@ pandas==1.1.5
 ## 2. Usage
 ### 2.1 Data preparation
 
-![pipeline](./SCTNET_files/dataset.png)
+![pipeline](./SCTNet_files/dataset.png)
 
 We created a large traffic accident dataset called 4M-TAD containing frame-level labels standardized for unsupervised traffic accident detection.
 
