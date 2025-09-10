@@ -32,7 +32,7 @@ We created a large traffic accident dataset called 4M-TAD containing frame-level
 
 As the paper is currently in the process of submitting, the dataset needs to be kept confidential for the time being, here we only disclose part of the dataset:
 
-[4M-TAD_Part_1](https://drive.google.com/file/d/1WXcdSDeiVRNw4gcVnvqtQmVdFDpCtecN/view?usp=sharing)
+[4M-TAD_Part_1](https://drive.google.com/file/d/142zp6sD6WZ6RyWt0QTmOAmB7msLV8KVQ/view?usp=drive_link)
 
 The full dataset will be updated after the acceptance of the article.
 
